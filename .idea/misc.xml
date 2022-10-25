@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EmployeeDirectory/app/src/main/res/drawable/placeholder_headshot.xml" value="0.2625" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EmployeeDirectory/app/src/main/res/layout/activity_main.xml" value="0.20909090909090908" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/EmployeeDirectory/app/src/main/res/layout/employee_list_item.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
